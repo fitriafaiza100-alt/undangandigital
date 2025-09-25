@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Undangan Digital</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #fafafa; }
+    .card { margin: 50px auto; padding: 20px; max-width: 500px;
+            background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+    h1 { color: #ff4081; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Undangan Pernikahan</h1>
+    <h2>Fitria & Ahmad</h2>
+    <p>Dengan hormat mengundang Anda untuk hadir di acara pernikahan kami.</p>
+    <p><b>Tanggal:</b> 15 Oktober 2025</p>
+    <p><b>Tempat:</b> Gedung Serbaguna Mojokerto</p>
+  </div>
+</body>
+</html>
